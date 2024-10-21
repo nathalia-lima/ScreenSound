@@ -1,0 +1,14 @@
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\bin\Debug\net8.0\NumeroAleatorio.exe
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\bin\Debug\net8.0\NumeroAleatorio.deps.json
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\bin\Debug\net8.0\NumeroAleatorio.runtimeconfig.json
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\bin\Debug\net8.0\NumeroAleatorio.dll
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\bin\Debug\net8.0\NumeroAleatorio.pdb
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\obj\Debug\net8.0\NumeroAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\obj\Debug\net8.0\NumeroAleatorio.AssemblyInfoInputs.cache
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\obj\Debug\net8.0\NumeroAleatorio.AssemblyInfo.cs
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\obj\Debug\net8.0\NumeroAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\obj\Debug\net8.0\NumeroAleatorio.dll
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\obj\Debug\net8.0\refint\NumeroAleatorio.dll
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\obj\Debug\net8.0\NumeroAleatorio.pdb
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\obj\Debug\net8.0\NumeroAleatorio.genruntimeconfig.cache
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\NumeroAleatorio\NumeroAleatorio\obj\Debug\net8.0\ref\NumeroAleatorio.dll

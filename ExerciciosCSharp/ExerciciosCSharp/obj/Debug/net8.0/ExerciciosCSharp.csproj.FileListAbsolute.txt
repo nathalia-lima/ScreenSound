@@ -1,0 +1,14 @@
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\net8.0\ExerciciosCSharp.exe
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\net8.0\ExerciciosCSharp.deps.json
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\net8.0\ExerciciosCSharp.runtimeconfig.json
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\net8.0\ExerciciosCSharp.dll
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\net8.0\ExerciciosCSharp.pdb
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net8.0\ExerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net8.0\ExerciciosCSharp.AssemblyInfoInputs.cache
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net8.0\ExerciciosCSharp.AssemblyInfo.cs
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net8.0\ExerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net8.0\ExerciciosCSharp.dll
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net8.0\refint\ExerciciosCSharp.dll
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net8.0\ExerciciosCSharp.pdb
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net8.0\ExerciciosCSharp.genruntimeconfig.cache
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net8.0\ref\ExerciciosCSharp.dll

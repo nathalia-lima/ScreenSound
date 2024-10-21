@@ -1,0 +1,14 @@
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\bin\Debug\net8.0\CSharp.exe
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\bin\Debug\net8.0\CSharp.deps.json
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\bin\Debug\net8.0\CSharp.runtimeconfig.json
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\bin\Debug\net8.0\CSharp.dll
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\bin\Debug\net8.0\CSharp.pdb
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\obj\Debug\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfo.cs
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\obj\Debug\net8.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\obj\Debug\net8.0\CSharp.dll
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\obj\Debug\net8.0\refint\CSharp.dll
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\obj\Debug\net8.0\CSharp.pdb
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
+C:\Users\nl265\OneDrive\Área de Trabalho\cSharpAlura\CSharp\CSharp\obj\Debug\net8.0\ref\CSharp.dll
